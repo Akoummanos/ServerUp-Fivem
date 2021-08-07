@@ -1,0 +1,28 @@
+{
+  "name": "serverupfivem",
+  "version": "1.0.0",
+  "description": "An auto fivem server up webhook, made by Akoum!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akoummanos/ServerUp-Fivem.git"
+  },
+  "keywords": [
+    "serverup",
+    "fivemserverup",
+    "fivem",
+    "serverfivem"
+  ],
+  "author": "Akoummanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akoummanos/ServerUp-Fivem/issues"
+  },
+  "homepage": "https://github.com/Akoummanos/ServerUp-Fivem#readme",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "embeds":{
+        "NAME":"",
+        "LOGO":"",
+        "COLOR":""
+    },
+    "CHANNELS":{         
+        "CONNECT":""
+    },
+    "EMOJIS":{
+        "ONLINE":"🟢",
+        "OFFLINE":"🔴"
+    },
+    "WEBHOOK":""
+}
